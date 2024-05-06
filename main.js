@@ -2,12 +2,11 @@ document.addEventListener("DOMContentLoaded", function () {
     const days = 30;
     const tasks = [
         "Healthy Breakfast",
-        "10 Minutes of Educational Content",
-        "Write Down Your Daily Tasks",
-        "Write at Least One Line Of Code",
-        "Meditate for 10 Minutes",
-        "Exercise for 20 Minutes",
-        "Try at least one LeetCode Problem",
+        "Plan Your Day",
+        "10-15 Minutes of Stretching",
+        "Train",
+        "Post In Hops for Hoops and Help at Least 1 Person",
+        "Get at Least 8 Hours of Sleep",
         "Read ~one page"
     ];
     const container = document.querySelector(".row");
